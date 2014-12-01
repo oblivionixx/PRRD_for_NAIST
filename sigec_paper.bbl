@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}
+
+\bibitem{gamingmarket}
+Kamenetz, A.: Why video games succeed where the movie and music industries
+  fail, (online),
+  \urle{http://www.fastcompany.com/3021008/why-video-games-succeed-where-the-movie-and-music-industries-fail}.
+
+\bibitem{Onlive}
+OnLive: (online), \urle{\url{https://www.onlive.com}} (2014).
+
+\bibitem{cggrowth}
+{Cloud Gaming Report 2012}: Distribution and monetization strategies to
+  increase revenues from cloud gaming,
+  \url{http://www.cgconfusa.com/report/documents/Content-5minCloudGamingReportHighlights.pdf}
+  (2012).
+
+\bibitem{Gaikai}
+Gaikai: (online), \urle{\url{https://www.gaikai.com}} (2014).
+
+\bibitem{huang2013gaminganywhere}
+Huang, C.-Y., Hsu, C.-H., Chang, Y.-C. and Chen, K.-T.: GamingAnywhere: An open
+  cloud gaming system, {\em Proceedings of the 4th ACM multimedia systems
+  conference}, ACM, pp.\ 36--47 (2013).
+
+\bibitem{chen2011measuring}
+Chen, K.-T., Chang, Y.-C., Tseng, P.-H., Huang, C.-Y. and Lei, C.-L.: Measuring
+  the latency of cloud gaming systems, {\em Proceedings of the 19th ACM
+  international conference on Multimedia}, ACM, pp.\ 1269--1272 (2011).
+
+\bibitem{SMG}
+StreamMyGame: (online), \urle{\url{http://www.streammygame.com}} (2014).
+
+\bibitem{rizzo1997dummynet}
+Rizzo, L.: Dummynet: a simple approach to the evaluation of network protocols,
+  {\em ACM SIGCOMM Computer Communication Review},  Vol.~27, No.~1, pp.\ 31--41
+  (1997).
+
+\bibitem{jarschel2011evaluation}
+Jarschel, M., Schlosser, D., Scheuring, S. and Ho{\ss}feld, T.: An evaluation
+  of QoE in cloud gaming based on subjective tests, {\em , 2011 Fifth
+  International Conference on Innovative Mobile and Internet Services in
+  Ubiquitous Computing (IMIS)}, IEEE, pp.\ 330--335 (2011).
+
+\bibitem{eisert2008low}
+Eisert, P. and Fechteler, P.: Low delay streaming of computer graphics, {\em
+  15th IEEE International Conference on Image Processing, 2008. ICIP 2008.},
+  IEEE, pp.\ 2704--2707 (2008).
+
+\bibitem{nave2008games}
+Nave, I., David, H., Shani, A., Tzruya, Y., Laikari, A., Eisert, P. and
+  Fechteler, P.: Games@ Large graphics streaming architecture, {\em IEEE
+  International Symposium onConsumer Electronics, 2008. ISCE 2008.}, IEEE, pp.\
+  1--4 (2008).
+
+\bibitem{shi2011using}
+Shi, S., Hsu, C.-H., Nahrstedt, K. and Campbell, R.: Using graphics rendering
+  contexts to enhance the real-time video coding for mobile cloud gaming, {\em
+  Proceedings of the 19th ACM international conference on Multimedia}, ACM,
+  pp.\ 103--112 (2011).
+
+\bibitem{bellard2006ffmpeg}
+Bellard, F.: FFmpeg Multimedia System, 2006 (2006).
+
+\end{thebibliography}

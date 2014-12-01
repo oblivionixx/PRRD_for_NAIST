@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sigec_paper.aux
+The style file: ipsjunsrt-e.bst
+Database file #1: bib_db.bib
+Warning--Missing required argument year in gamingmarket
+Warning--Missing required argument booktitle in gamingmarket
+Warning--Missing required argument title in Onlive
+Warning--Missing required argument booktitle in Onlive
+Warning--Missing required argument title in Gaikai
+Warning--Missing required argument booktitle in Gaikai
+Warning--Missing required argument title in SMG
+Warning--Missing required argument booktitle in SMG
+You've used 13 entries,
+            1978 wiz_defined-function locations,
+            548 strings with 6047 characters,
+and the built_in function-call counts, 3401 in all, are:
+= -- 283
+> -- 112
+< -- 7
++ -- 46
+- -- 33
+* -- 239
+:= -- 453
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 164
+empty$ -- 395
+format.name$ -- 33
+if$ -- 823
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 11
+newline$ -- 42
+num.names$ -- 13
+pop$ -- 58
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 185
+stack$ -- 0
+substring$ -- 208
+swap$ -- 66
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 34
+width$ -- 15
+write$ -- 105
+(There were 8 warnings)
